@@ -1,2 +1,2 @@
 # ML-Projects
-#1. Sonar ROCK VS MINE Prediction
+1. Sonar ROCK VS MINE Prediction
